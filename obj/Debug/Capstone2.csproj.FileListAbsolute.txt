@@ -1,0 +1,7 @@
+C:\Users\Miguel Gomez Jr\source\repos\Capstone2\Capstone2\obj\Debug\Capstone2.csprojAssemblyReference.cache
+C:\Users\Miguel Gomez Jr\source\repos\Capstone2\Capstone2\obj\Debug\Capstone2.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Gomez Jr\source\repos\Capstone2\Capstone2\bin\Debug\Capstone2.exe.config
+C:\Users\Miguel Gomez Jr\source\repos\Capstone2\Capstone2\bin\Debug\Capstone2.exe
+C:\Users\Miguel Gomez Jr\source\repos\Capstone2\Capstone2\bin\Debug\Capstone2.pdb
+C:\Users\Miguel Gomez Jr\source\repos\Capstone2\Capstone2\obj\Debug\Capstone2.exe
+C:\Users\Miguel Gomez Jr\source\repos\Capstone2\Capstone2\obj\Debug\Capstone2.pdb
